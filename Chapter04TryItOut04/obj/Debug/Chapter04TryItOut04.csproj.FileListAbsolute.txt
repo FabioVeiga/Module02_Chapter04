@@ -1,0 +1,6 @@
+D:\IBT\C# Windows Form\Chapter04TryItOut04\obj\Debug\Chapter04TryItOut04.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\Chapter04TryItOut04\bin\Debug\Chapter04TryItOut04.exe.config
+D:\IBT\C# Windows Form\Chapter04TryItOut04\bin\Debug\Chapter04TryItOut04.exe
+D:\IBT\C# Windows Form\Chapter04TryItOut04\bin\Debug\Chapter04TryItOut04.pdb
+D:\IBT\C# Windows Form\Chapter04TryItOut04\obj\Debug\Chapter04TryItOut04.exe
+D:\IBT\C# Windows Form\Chapter04TryItOut04\obj\Debug\Chapter04TryItOut04.pdb
